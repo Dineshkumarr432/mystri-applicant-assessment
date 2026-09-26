@@ -1,0 +1,16 @@
+.local/
+__pycache__/
+*.pyc
+.idea/
+bad-header.csv
+different-invoice.csv
+different-payment.csv
+duplicate-invoice.csv
+duplicate-payment.csv
+empty-invoice.csv
+final-test-invoice.csv
+final-test-payment.csv
+mixed-test.csv
+overpayment-invoice.csv
+overpayment.csv
+retry-test.csv
